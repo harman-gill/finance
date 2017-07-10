@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-07-07 17:38:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>43905b3513bbfa00d80074c66144b0a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ahho_finance_ar_approval_matrix.x_ahho_finance_ar_approval_matrix_user</sys_name>
+        <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+        <sys_security_acl display_value="x_ahho_finance_ar_approval_matrix">b6909bf113bbfa00d80074c66144b026</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_43905b3513bbfa00d80074c66144b0a7</sys_update_name>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-07-07 17:38:56</sys_updated_on>
+        <sys_user_role display_value="x_ahho_finance_ar_approval_matrix_user" name="x_ahho_finance_ar_approval_matrix_user">5e909bf113bbfa00d80074c66144b020</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true" audit="true" extends="task" label="Accounts Receivable" max_length="40" name="x_ahho_finance_accounts_receivable" sizeclass="8" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Request Type" max_length="40" name="request_type" type="string">
+            <choice>
+                <element label="Variance Invoicing" sequence="100" value="1"/>
+                <element label="Reconciliations" sequence="200" value="2"/>
+                <element label="Price/Contract Questions" sequence="300" value="3"/>
+                <element label="Manual Invoices" sequence="400" value="4"/>
+                <element label="Invoice/Statement Copy" sequence="500" value="5"/>
+                <element label="Invoice Voids" sequence="600" value="6"/>
+                <element label="Invoice Credit" sequence="700" value="7"/>
+                <element label="Contract Price Change" sequence="800" value="8"/>
+                <element label="Accounting / Accrual Files" sequence="900" value="9"/>
+                <element label="Payment Remittance" sequence="1000" value="10"/>
+            </choice>
+        </element>
+        <element label="Send to Customer" max_length="40" name="send_to_customer" type="boolean"/>
+        <element label="Amount" max_length="40" name="u_amount" type="currency"/>
+        <element label="Amount Total" max_length="40" name="u_amount_total" type="currency"/>
+        <element label="Company" max_length="40" name="u_company" type="string"/>
+        <element label="Cost Center" max_length="40" name="u_cost_center" type="string"/>
+        <element label="Customer" max_length="32" name="u_customer" reference="u_prod_gp_customer" type="reference"/>
+        <element label="Customer Number" max_length="40" name="u_customer_number" type="string"/>
+        <element choice="1" label="Document Type" max_length="40" name="u_document_type" type="choice">
+            <choice>
+                <element label="Credit" sequence="100" value="credit"/>
+                <element label="Invoice" sequence="200" value="invoice"/>
+            </choice>
+        </element>
+        <element label="Go-Live Date" max_length="40" name="u_golive_date" type="glide_date"/>
+        <element label="Invoice number" max_length="40" name="u_invoice_number" type="string"/>
+        <element choice="1" label="Invoice Type" max_length="40" name="u_invoice_type" type="choice">
+            <choice>
+                <element label="T&amp;M (Time and Material)" sequence="100" value="time_and_material"/>
+                <element label="Contract" sequence="200" value="contract"/>
+                <element label="Equipment Sales" sequence="300" value="equipment_sales"/>
+                <element label="Tax" sequence="400" value="tax"/>
+            </choice>
+        </element>
+        <element choice="1" label="Justification" max_length="40" name="u_justification" type="choice">
+            <choice>
+                <element label="Work order not processed correctly (e.g. Damage)" sequence="100" value="wo_not_processed_correctly"/>
+                <element label="RSQ shouldn't have billed (retired equipment, set up, etc.)" sequence="200" value="billed_incorrectly"/>
+                <element label="Covered under contract" sequence="300" value="covered_under_contract"/>
+                <element label="Concession to customer on price/work performed" sequence="400" value="concession"/>
+                <element label="Correction to the contract pricing" sequence="500" value="correction"/>
+                <element label="Uncollectiable AR" sequence="600" value="uncollectiable"/>
+            </choice>
+        </element>
+        <element label="Original Invoice number" max_length="40" name="u_original_invoice_number" type="string"/>
+        <element choice="1" label="Payment Type" max_length="40" name="u_payment_type" type="choice">
+            <choice/>
+        </element>
+        <element label="PO number" max_length="40" name="u_po_number" type="string"/>
+        <element label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element label="Reason" max_length="40" name="u_reason" type="string"/>
+        <element label="Requested for" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element choice="1" label="Statement Month" max_length="40" name="u_statement_month" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Time Period" max_length="40" name="u_time_period" type="choice">
+            <choice>
+                <element label="Q1" sequence="100" value="q1"/>
+                <element label="Q2" sequence="200" value="q2"/>
+                <element label="Q3" sequence="300" value="q3"/>
+                <element label="Q4" sequence="400" value="q4"/>
+                <element label="Fiscal Year" sequence="500" value="fiscal_year"/>
+            </choice>
+        </element>
+        <element label="Total Reconciliation" max_length="40" name="u_total_recon" type="currency"/>
+        <element label="Unit Price" max_length="40" name="u_unit_price" type="currency"/>
+        <element choice="1" label="Variance +/- $10k?" max_length="40" name="u_variance" type="choice">
+            <choice>
+                <element label="Yes" sequence="100" value="yes"/>
+                <element label="No" sequence="200" value="no"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_email_client_template">
+    <sys_email_client_template action="INSERT_OR_UPDATE">
+        <blind_copied/>
+        <body/>
+        <condition/>
+        <copied/>
+        <from/>
+        <name>ar_template</name>
+        <order>100</order>
+        <recipients>u_requested_for</recipients>
+        <reply_to/>
+        <subject>number</subject>
+        <sys_class_name>sys_email_client_template</sys_class_name>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-07-06 17:18:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3d810ea51373fa00d80074c66144b03f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>ar_template</sys_name>
+        <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+        <sys_update_name>sys_email_client_template_3d810ea51373fa00d80074c66144b03f</sys_update_name>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-07-06 17:27:23</sys_updated_on>
+        <table>x_ahho_finance_accounts_receivable</table>
+    </sys_email_client_template>
+</record_update>

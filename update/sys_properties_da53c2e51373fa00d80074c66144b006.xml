@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Accounts Receivable activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_ahho_finance_accounts_receivable_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-07-06 17:22:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>da53c2e51373fa00d80074c66144b006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_ahho_finance_accounts_receivable_activity.fields</sys_name>
+        <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+        <sys_update_name>sys_properties_da53c2e51373fa00d80074c66144b006</sys_update_name>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-07-06 17:22:54</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,u_amount,due_date,*Email*,u_variance,u_unit_price,u_total_recon,u_statement_month,send_to_customer,u_requested_for,request_type,work_end,u_reason,u_quantity,u_po_number,u_original_invoice_number,u_justification,u_invoice_number,u_golive_date,work_start,u_customer_number,u_customer,sys_created_on,u_cost_center,u_amount_total,assignment_group,closed_by,u_company,description</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=da53c2e51373fa00d80074c66144b006"/>
+</record_update>

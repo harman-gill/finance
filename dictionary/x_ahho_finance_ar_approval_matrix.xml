@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="AR Approval Matrix" max_length="40" name="x_ahho_finance_ar_approval_matrix" type="collection">
+        <element label="Amount" max_length="40" name="amount" type="integer"/>
+        <element label="Approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <element label="Level" max_length="40" name="level" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="140" name="notes" type="string"/>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+    </element>
+</database>

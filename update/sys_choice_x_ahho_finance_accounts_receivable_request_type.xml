@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="request_type" table="x_ahho_finance_accounts_receivable" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Variance Invoicing</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>100</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:07:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>507611e11333fa00d80074c66144b030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:07:05</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reconciliations</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>200</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:07:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8696d9611333fa00d80074c66144b081</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:07:22</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Price/Contract Questions</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>300</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:07:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>82a699ed13ffba00d80074c66144b052</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:07:38</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manual Invoices</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>400</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>41b6d1e11333fa00d80074c66144b0d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:07:51</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invoice/Statement Copy</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>500</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:08:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>31c6d5a11333fa00d80074c66144b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:08:10</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invoice Voids</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>600</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:08:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9ed695e11333fa00d80074c66144b049</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:08:29</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invoice Credit</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>700</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:08:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6ee6d1e11333fa00d80074c66144b03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:08:45</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contract Price Change</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>800</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:09:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4bf611e11333fa00d80074c66144b031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:09:04</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accounting / Accrual Files</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>900</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:09:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d70751e11333fa00d80074c66144b030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:09:22</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payment Remittance</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>1000</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:09:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bf1715e11333fa00d80074c66144b05b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:09:40</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-06 14:07:05</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b986d5a11333fa00d80074c66144b024</sys_id>
+            <sys_mod_count>10</sys_mod_count>
+            <sys_name>request_type</sys_name>
+            <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+            <sys_update_name>sys_choice_x_ahho_finance_accounts_receivable_request_type</sys_update_name>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-06 14:09:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
