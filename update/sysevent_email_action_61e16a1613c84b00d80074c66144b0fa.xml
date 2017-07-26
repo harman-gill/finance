@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <collection>x_ahho_finance_accounts_receivable</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <description>Sends an email to the AR associate that a request is submitted</description>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <group/>
+        <group_field/>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <list/>
+        <list_field/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>${mail_script:ar_new_request_submitted}</p>
+<p>Request Type: ${request_type}</p>
+<p>Requested for: ${u_requested_for}</p>
+<p>Click here to view the request: ${URI_REF}</p>
+<p>Thank you.</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>AR - New Request Submitted</name>
+        <omit_watermark>false</omit_watermark>
+        <order/>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>assignment_group</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject/>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-07-21 13:48:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>61e16a1613c84b00d80074c66144b0fa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AR - New Request Submitted</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+        <sys_update_name>sysevent_email_action_61e16a1613c84b00d80074c66144b0fa</sys_update_name>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-07-21 14:15:19</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <user/>
+        <user_field/>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

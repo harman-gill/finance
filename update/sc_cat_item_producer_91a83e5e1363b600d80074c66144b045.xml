@@ -45,6 +45,7 @@
         <sc_ic_version/>
         <script><![CDATA[current.request_type = 7;]]></script>
         <short_description>Invoice Credit</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>

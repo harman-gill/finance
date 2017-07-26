@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="u_amount" table="x_ahho_finance_accounts_receivable">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation>(function calculatedFieldValue(current) {

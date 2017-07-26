@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="sub_state" label="Sub State" language="en" table="x_ahho_finance_accounts_receivable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sub_state</element>
+            <help/>
+            <hint/>
+            <label>Sub State</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <plural>Sub States</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-17 16:36:37</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>2732a20113c08700d80074c66144b0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sub State</sys_name>
+            <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+            <sys_update_name>sys_documentation_x_ahho_finance_accounts_receivable_sub_state_en</sys_update_name>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-17 16:36:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

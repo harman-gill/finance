@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sub_state" table="x_ahho_finance_accounts_receivable" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Requestor Response</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>100</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-17 16:38:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bd52260113c08700d80074c66144b0ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-17 16:38:07</sys_updated_on>
+            <value>awaiting_requestor_response</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sub_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Customer Response</label>
+            <language>en</language>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sequence>200</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-17 16:38:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fba2e60113c08700d80074c66144b091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-17 16:38:33</sys_updated_on>
+            <value>awaiting_customer_response</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sub_state</element>
+            <name>x_ahho_finance_accounts_receivable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-17 16:38:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b59222cd13808700d80074c66144b07b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>sub_state</sys_name>
+            <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+            <sys_update_name>sys_choice_x_ahho_finance_accounts_receivable_sub_state</sys_update_name>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-17 16:38:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
