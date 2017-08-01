@@ -15,7 +15,7 @@
         <mobile_title>Rejected Requests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_ahho_finance_accounts_receivable</name>
-        <order>310</order>
+        <order>375</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -28,8 +28,8 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>447108ff13cc8b00cb92b7a66144b03c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>All Requests</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
         <sys_policy/>
@@ -37,9 +37,9 @@
         <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
         <sys_update_name>sys_app_module_447108ff13cc8b00cb92b7a66144b03c</sys_update_name>
         <sys_updated_by>hsgill</sys_updated_by>
-        <sys_updated_on>2017-07-25 17:57:20</sys_updated_on>
+        <sys_updated_on>2017-07-27 16:12:56</sys_updated_on>
         <timeline_page/>
-        <title>All Requests</title>
+        <title>All</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

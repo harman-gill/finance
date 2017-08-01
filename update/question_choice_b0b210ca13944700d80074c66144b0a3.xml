@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>300</order>
+        <question display_value="Payment Type">22521c8a13944700d80074c66144b0d8</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-08-01 18:59:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b0b210ca13944700d80074c66144b0a3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Credit Cards</sys_name>
+        <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+        <sys_update_name>question_choice_b0b210ca13944700d80074c66144b0a3</sys_update_name>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-08-01 18:59:20</sys_updated_on>
+        <text>Credit Cards</text>
+        <value>credit_cards</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=b0b210ca13944700d80074c66144b0a3"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>b0b210ca13944700d80074c66144b0a3</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-08-01 18:59:05</sys_created_on>
+        <sys_id>34b210ca13944700d80074c66144b0a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-08-01 18:59:05</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>b0b210ca13944700d80074c66144b0a3</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-08-01 18:59:05</sys_created_on>
+        <sys_id>f8b210ca13944700d80074c66144b0a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-08-01 18:59:05</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

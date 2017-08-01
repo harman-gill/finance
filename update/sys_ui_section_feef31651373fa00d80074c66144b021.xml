@@ -2,30 +2,30 @@
 <record_update>
     <sys_ui_section caption="Activity" section_id="feef31651373fa00d80074c66144b021" sys_domain="global" table="x_ahho_finance_accounts_receivable" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>comments</element>
+            <element>work_notes</element>
             <position>0</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:12:16</sys_created_on>
-            <sys_id>6ae00e651373fa00d80074c66144b056</sys_id>
+            <sys_created_on>2017-07-31 17:58:28</sys_created_on>
+            <sys_id>173b3a2d13948300cb92b7a66144b07c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Activity" display_value="Activity" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">feef31651373fa00d80074c66144b021</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 17:12:16</sys_updated_on>
+            <sys_updated_on>2017-07-31 17:58:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
+            <element>comments</element>
             <position>1</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:12:16</sys_created_on>
-            <sys_id>eae00e651373fa00d80074c66144b056</sys_id>
+            <sys_created_on>2017-07-31 17:58:28</sys_created_on>
+            <sys_id>973b3a2d13948300cb92b7a66144b07c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Activity" display_value="Activity" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">feef31651373fa00d80074c66144b021</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 17:12:16</sys_updated_on>
+            <sys_updated_on>2017-07-31 17:58:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>activity.xml</element>
             <position>2</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:12:16</sys_created_on>
-            <sys_id>6ee00e651373fa00d80074c66144b056</sys_id>
+            <sys_created_on>2017-07-31 17:58:28</sys_created_on>
+            <sys_id>1b3b3a2d13948300cb92b7a66144b07c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">b832d3560a0001c700d781efe21e22f5</sys_ui_formatter>
             <sys_ui_section caption="Activity" display_value="Activity" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">feef31651373fa00d80074c66144b021</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 17:12:16</sys_updated_on>
+            <sys_updated_on>2017-07-31 17:58:28</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>

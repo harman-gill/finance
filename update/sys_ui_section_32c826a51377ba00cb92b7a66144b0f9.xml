@@ -5,167 +5,125 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>76c826a51377ba00cb92b7a66144b0f9</sys_id>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>5dd01a1413d04300d80074c66144b066</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
-            <position>1</position>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>f6c826a51377ba00cb92b7a66144b0f9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
-            <position>2</position>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>7ac826a51377ba00cb92b7a66144b0f9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>3</position>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>7ec826a51377ba00cb92b7a66144b0f9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>1</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>fac826a51377ba00cb92b7a66144b0f9</sys_id>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>ddd01a1413d04300d80074c66144b066</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>5</position>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>fec826a51377ba00cb92b7a66144b0f9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
+            <position>2</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>72c826a51377ba00cb92b7a66144b0fa</sys_id>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>51d01a1413d04300d80074c66144b067</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>7</position>
+            <position>3</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>f2c826a51377ba00cb92b7a66144b0fa</sys_id>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>d1d01a1413d04300d80074c66144b067</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>4</position>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>55d01a1413d04300d80074c66144b067</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>5</position>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>d5d01a1413d04300d80074c66144b067</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>6</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>76c826a51377ba00cb92b7a66144b0fa</sys_id>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>59d01a1413d04300d80074c66144b067</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>9</position>
+            <position>7</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>f6c826a51377ba00cb92b7a66144b0fa</sys_id>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>d9d01a1413d04300d80074c66144b067</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>10</position>
+            <position>8</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>7ac826a51377ba00cb92b7a66144b0fa</sys_id>
+            <sys_created_on>2017-07-27 17:40:48</sys_created_on>
+            <sys_id>5dd01a1413d04300d80074c66144b067</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>11</position>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 20:06:30</sys_created_on>
-            <sys_id>fac826a51377ba00cb92b7a66144b0fa</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">32c826a51377ba00cb92b7a66144b0f9</sys_ui_section>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 20:06:30</sys_updated_on>
+            <sys_updated_on>2017-07-27 17:40:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

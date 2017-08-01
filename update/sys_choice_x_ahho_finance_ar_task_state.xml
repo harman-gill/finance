@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_ahho_finance_ar_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_ahho_finance_ar_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-27 17:01:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4bd74e5413980f00cb92b7a66144b0e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-27 17:01:36</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_ahho_finance_ar_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-27 17:01:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>87d74e5413980f00cb92b7a66144b0eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-27 17:01:37</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_ahho_finance_ar_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-27 17:01:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cfd74e5413980f00cb92b7a66144b0ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-27 17:01:37</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_ahho_finance_ar_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-07-27 17:01:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>83d74e5413980f00cb92b7a66144b0eb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+            <sys_update_name>sys_choice_x_ahho_finance_ar_task_state</sys_update_name>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-07-27 17:01:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
