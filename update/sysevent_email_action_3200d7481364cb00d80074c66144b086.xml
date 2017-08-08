@@ -29,42 +29,44 @@
         <list_field/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>${mail_script:ar_new_request_submitted}</p>
+        <message_html><![CDATA[<p>Hello ${u_requested_for};</p>
+<p>A new request, ${number}, has been submitted to the Accounts Receivable department. The request is currently being reviewed.</p>
 <p>Request Type: ${request_type}</p>
-<p>Requested for: ${u_requested_for}</p>
-<p>Click here to view the request: ${URI_REF}</p>
-<p>Thank you.</p>]]></message_html>
+<p>Customer: ${u_customer}</p>
+<p><span style="color: #ff0000;">You can reply back to this email if you have any questions or concerns.</span></p>
+<p>Thank you,</p>
+<p>Accounts Receivable</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>AR - New Request Submitted</name>
+        <name>AR - New Request Submitted (Requestor)</name>
         <omit_watermark>false</omit_watermark>
         <order/>
         <push_message_only>false</push_message_only>
-        <recipient_fields>assignment_group</recipient_fields>
+        <recipient_fields>u_requested_for</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject/>
+        <subject>${number} has been submitted to AR.</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
-        <sys_created_on>2017-07-21 13:48:52</sys_created_on>
+        <sys_created_on>2017-08-08 13:54:11</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>61e16a1613c84b00d80074c66144b0fa</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>AR - New Request Submitted</sys_name>
+        <sys_id>3200d7481364cb00d80074c66144b086</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AR - New Request Submitted (Requestor)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
-        <sys_update_name>sysevent_email_action_61e16a1613c84b00d80074c66144b0fa</sys_update_name>
+        <sys_update_name>sysevent_email_action_3200d7481364cb00d80074c66144b086</sys_update_name>
         <sys_updated_by>hsgill</sys_updated_by>
-        <sys_updated_on>2017-08-08 15:11:58</sys_updated_on>
+        <sys_updated_on>2017-08-08 15:10:55</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true" audit="true" extends="task" label="Accounts Receivable" max_length="40" name="x_ahho_finance_accounts_receivable" sizeclass="31" type="collection">
+    <element attributes="email_client=true" audit="true" extends="task" label="Accounts Receivable" max_length="40" name="x_ahho_finance_accounts_receivable" sizeclass="50" type="collection">
+        <element label="Customer Action Needed" max_length="40" name="customer_action_needed" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Request Type" max_length="40" name="request_type" type="string">
             <choice>
                 <element label="Variance Invoicing" sequence="100" value="1"/>
@@ -16,13 +17,7 @@
             </choice>
         </element>
         <element label="Send to Customer" max_length="40" name="send_to_customer" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Sub State" max_length="40" name="sub_state" type="string">
-            <choice>
-                <element label="Awaiting Requestor Response" sequence="100" value="awaiting_requestor_response"/>
-                <element label="Awaiting Customer Response" sequence="200" value="awaiting_customer_response"/>
-            </choice>
-        </element>
-        <element label="Amount" max_length="40" name="u_amount" type="currency"/>
+        <element label="Amount" max_length="15" name="u_amount" type="currency"/>
         <element label="Amount Total" max_length="40" name="u_amount_total" type="currency"/>
         <element label="Company" max_length="40" name="u_company" reference="core_company" type="reference"/>
         <element label="Cost Center" max_length="40" name="u_cost_center" type="string"/>
@@ -78,8 +73,8 @@
                 <element label="Fiscal Year" sequence="500" value="fiscal_year"/>
             </choice>
         </element>
-        <element label="Total Reconciliation" max_length="40" name="u_total_recon" type="currency"/>
-        <element label="Unit Price" max_length="40" name="u_unit_price" type="currency"/>
+        <element label="Total Reconciliation" max_length="15" name="u_total_recon" type="currency"/>
+        <element label="Unit Price" max_length="15" name="u_unit_price" type="currency"/>
         <element choice="1" label="Variance +/- $10k?" max_length="40" name="u_variance" type="choice">
             <choice>
                 <element label="Yes" sequence="100" value="yes"/>

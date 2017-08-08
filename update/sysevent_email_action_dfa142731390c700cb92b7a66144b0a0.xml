@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sysevent_email_action">
     <sysevent_email_action action="INSERT_OR_UPDATE">
-        <action_insert>true</action_insert>
+        <action_insert>false</action_insert>
         <action_update>false</action_update>
         <active>true</active>
         <advanced_condition/>
@@ -31,16 +31,17 @@
         <message/>
         <message_html><![CDATA[<p>Hello ${approver},</p>
 <p>You approval is needed on ${current.sysapproval.number}. Please, find the details below.</p>
-<p>Request Type: ${current.sysapproval.<span style="color: #343d47;">request_type</span>}</p>
+<p>Request Type: ${current.sysapproval.request_type}</p>
 <p>Requested For: ${current.sysapproval.u_requested_for}</p>
 <p>Customer:&nbsp;${current.sysapproval.u_customer}</p>
 <p>Amount:&nbsp;${current.sysapproval.u_amount}</p>
-<p><a title="Approve" href="${mailto:mailto.approve}">Approve </a>- Click to approve.</p>
-<p><a title="Reject" href="${URI}">Reject </a>- Click to reject.</p>
+<p>${mailto:mailto.approval}</p>
+<p>Click here to Reject ${URI_REF}</p>
+<p>Click here to view Request. ${sysapproval.URI_REF}</p>
 <p>Thank you.</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>AR  - Approval Needed</name>
+        <name>AR - Request approval</name>
         <omit_watermark>false</omit_watermark>
         <order/>
         <push_message_only>false</push_message_only>
@@ -51,24 +52,24 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>${current.sysapproval.number} - Your approval is needed.</subject>
+        <subject>A new request is awaiting approval - ${sysapproval.number}</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
-        <sys_created_on>2017-07-21 14:20:49</sys_created_on>
+        <sys_created_on>2017-08-07 13:33:27</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>ea29ae5a13c84b00d80074c66144b0b0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>AR  - Approval Needed</sys_name>
+        <sys_id>dfa142731390c700cb92b7a66144b0a0</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>AR - Request approval</sys_name>
         <sys_overrides/>
         <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
-        <sys_update_name>sysevent_email_action_ea29ae5a13c84b00d80074c66144b0b0</sys_update_name>
+        <sys_update_name>sysevent_email_action_dfa142731390c700cb92b7a66144b0a0</sys_update_name>
         <sys_updated_by>hsgill</sys_updated_by>
-        <sys_updated_on>2017-07-21 15:27:05</sys_updated_on>
+        <sys_updated_on>2017-08-07 14:09:25</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
