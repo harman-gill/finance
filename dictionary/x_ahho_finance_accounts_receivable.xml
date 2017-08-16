@@ -14,6 +14,8 @@
                 <element label="Contract Price Change" sequence="800" value="8"/>
                 <element label="Accounting / Accrual Files" sequence="900" value="9"/>
                 <element label="Payment Remittance" sequence="1000" value="10"/>
+                <element label="Reports" sequence="1100" value="11"/>
+                <element label="Miscellaneous" sequence="1200" value="12"/>
             </choice>
         </element>
         <element label="Send to Customer" max_length="40" name="send_to_customer" type="boolean"/>
@@ -29,8 +31,9 @@
                 <element label="Invoice" sequence="200" value="invoice"/>
             </choice>
         </element>
+        <element label="End Date" max_length="40" name="u_end_date" type="glide_date"/>
         <element label="Go-Live Date" max_length="40" name="u_golive_date" type="glide_date"/>
-        <element label="Invoice number" max_length="40" name="u_invoice_number" type="string"/>
+        <element label="Invoice #/WO #" max_length="40" name="u_invoice_number" type="string"/>
         <element choice="1" label="Invoice Type" max_length="40" name="u_invoice_type" type="choice">
             <choice>
                 <element label="T&amp;M (Time and Material)" sequence="100" value="time_and_material"/>
@@ -46,7 +49,7 @@
                 <element label="Covered under contract" sequence="300" value="covered_under_contract"/>
                 <element label="Concession to customer on price/work performed" sequence="400" value="concession"/>
                 <element label="Correction to the contract pricing" sequence="500" value="correction"/>
-                <element label="Uncollectiable AR" sequence="600" value="uncollectiable"/>
+                <element label="Miscellaneous Invoice Credit" sequence="600" value="miscellaneous_invoice_credit"/>
             </choice>
         </element>
         <element label="Original Invoice number" max_length="40" name="u_original_invoice_number" type="string"/>
@@ -61,6 +64,9 @@
         <element label="Quantity" max_length="40" name="u_quantity" type="integer"/>
         <element label="Reason" max_length="40" name="u_reason" type="string"/>
         <element label="Requested for" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element choice="1" label="Start Date" max_length="40" name="u_start_date" type="choice">
+            <choice/>
+        </element>
         <element choice="1" label="Statement Month" max_length="40" name="u_statement_month" type="choice">
             <choice/>
         </element>
@@ -81,5 +87,6 @@
                 <element label="No" sequence="200" value="no"/>
             </choice>
         </element>
+        <element label="WO #" max_length="40" name="wo_number" type="string"/>
     </element>
 </database>
