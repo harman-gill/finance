@@ -2,20 +2,20 @@
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Reports">c17e00ae13e04f00cb92b7a66144b096</sc_cat_item>
-        <sc_category display_value="External Requests (Field)">2c6c7c30136bf200d80074c66144b012</sc_category>
+        <sc_category display_value="Internal Requests (Central Office)">ad7f30b0136bf200d80074c66144b02c</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
-        <sys_created_on>2017-08-15 18:14:19</sys_created_on>
+        <sys_created_on>2017-08-16 19:17:24</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>2dbe4cee13e04f00cb92b7a66144b0c0</sys_id>
+        <sys_id>1bb629b213608f00cb92b7a66144b078</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>External Requests (Field).Reports</sys_name>
+        <sys_name>Internal Requests (Central Office).Reports</sys_name>
         <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
-        <sys_update_name>sc_cat_item_category_2dbe4cee13e04f00cb92b7a66144b0c0</sys_update_name>
+        <sys_update_name>sc_cat_item_category_1bb629b213608f00cb92b7a66144b078</sys_update_name>
         <sys_updated_by>hsgill</sys_updated_by>
-        <sys_updated_on>2017-08-15 18:14:19</sys_updated_on>
+        <sys_updated_on>2017-08-16 19:17:24</sys_updated_on>
     </sc_cat_item_category>
 </record_update>
