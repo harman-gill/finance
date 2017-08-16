@@ -18,8 +18,14 @@
         <order>100</order>
         <reverse_if_false>true</reverse_if_false>
         <run_scripts>false</run_scripts>
-        <script_false><![CDATA[function onCondition() {}]]></script_false>
-        <script_true><![CDATA[function onCondition() {}]]></script_true>
+        <script_false><![CDATA[function onCondition() {
+	g_form.setMandatory('u_po_number', false);
+	g_form.hideFieldMsg('u_po_number');
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	g_form.setMandatory('u_po_number', true);
+	g_form.showFieldMsg('u_po_number', 'An attachment is required.');
+}]]></script_true>
         <set_values/>
         <short_description>PO mandatory</short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
@@ -28,7 +34,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>35567b1213e04f00cb92b7a66144b0fb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>PO mandatory</sys_name>
         <sys_overrides/>
         <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
@@ -37,9 +43,9 @@
         <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
         <sys_update_name>catalog_ui_policy_35567b1213e04f00cb92b7a66144b0fb</sys_update_name>
         <sys_updated_by>hsgill</sys_updated_by>
-        <sys_updated_on>2017-08-15 16:28:36</sys_updated_on>
+        <sys_updated_on>2017-08-16 16:11:02</sys_updated_on>
         <table/>
-        <ui_type>0</ui_type>
+        <ui_type>10</ui_type>
         <variable_set/>
         <view/>
     </catalog_ui_policy>
