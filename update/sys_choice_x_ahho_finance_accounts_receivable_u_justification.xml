@@ -10,13 +10,13 @@
             <language>en</language>
             <name>x_ahho_finance_accounts_receivable</name>
             <sequence>100</sequence>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:50:43</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-31 17:48:19</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>eaa98ae91373fa00d80074c66144b033</sys_id>
+            <sys_id>b43266ebdbb88f40c54cf5361d961938</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 17:50:43</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-31 17:48:19</sys_updated_on>
             <value>wo_not_processed_correctly</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -28,13 +28,13 @@
             <language>en</language>
             <name>x_ahho_finance_accounts_receivable</name>
             <sequence>200</sequence>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:50:57</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-31 17:48:19</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>91c98ee91373fa00d80074c66144b0e9</sys_id>
+            <sys_id>f43266ebdbb88f40c54cf5361d961938</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 17:50:57</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-31 17:48:19</sys_updated_on>
             <value>billed_incorrectly</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -46,13 +46,13 @@
             <language>en</language>
             <name>x_ahho_finance_accounts_receivable</name>
             <sequence>300</sequence>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:51:12</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-31 17:48:19</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>bcd98ee91373fa00d80074c66144b027</sys_id>
+            <sys_id>383266ebdbb88f40c54cf5361d961938</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 17:51:12</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-31 17:48:19</sys_updated_on>
             <value>covered_under_contract</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -64,13 +64,13 @@
             <language>en</language>
             <name>x_ahho_finance_accounts_receivable</name>
             <sequence>400</sequence>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 18:02:53</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-31 17:48:19</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>808cc22d1373fa00d80074c66144b0ba</sys_id>
+            <sys_id>783266ebdbb88f40c54cf5361d961938</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 18:02:53</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-31 17:48:19</sys_updated_on>
             <value>concession</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -82,13 +82,13 @@
             <language>en</language>
             <name>x_ahho_finance_accounts_receivable</name>
             <sequence>500</sequence>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:52:34</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-31 17:48:19</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>6d1ac22d1373fa00d80074c66144b0b3</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-06 17:52:52</sys_updated_on>
+            <sys_id>b83266ebdbb88f40c54cf5361d961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-31 17:48:19</sys_updated_on>
             <value>correction</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -100,32 +100,32 @@
             <language>en</language>
             <name>x_ahho_finance_accounts_receivable</name>
             <sequence>600</sequence>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:53:10</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-31 17:48:19</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>f54a022d1373fa00d80074c66144b0b6</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-15 17:42:19</sys_updated_on>
+            <sys_id>f83266ebdbb88f40c54cf5361d961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-31 17:48:19</sys_updated_on>
             <value>miscellaneous_invoice_credit</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_justification</element>
             <name>x_ahho_finance_accounts_receivable</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-06 17:50:43</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-08-31 17:48:19</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>f9b9822d1373fa00d80074c66144b01c</sys_id>
-            <sys_mod_count>8</sys_mod_count>
+            <sys_id>fc3266ebdbb88f40c54cf5361d961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>u_justification</sys_name>
             <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
             <sys_update_name>sys_choice_x_ahho_finance_accounts_receivable_u_justification</sys_update_name>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-15 17:42:19</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-08-31 17:48:19</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

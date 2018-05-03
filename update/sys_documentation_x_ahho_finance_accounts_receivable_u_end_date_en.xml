@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>hsgill</sys_created_by>
             <sys_created_on>2017-08-15 18:25:19</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>7e31586213244f00cb92b7a66144b060</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>End Date</sys_name>

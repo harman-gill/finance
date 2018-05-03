@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-07-10 18:04:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1313beba13373e00cb92b7a66144b0dd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Workflow</sys_name>

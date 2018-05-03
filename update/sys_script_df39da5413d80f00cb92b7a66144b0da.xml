@@ -41,7 +41,7 @@ current.u_customer_number = gr.u_custnmbr;]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-07-27 18:21:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>df39da5413d80f00cb92b7a66144b0da</sys_id>
         <sys_mod_count>0</sys_mod_count>

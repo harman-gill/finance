@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_affiliation</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-08-22 18:47:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5269503c13388340cb92b7a66144b06d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_affiliation</sys_name>
+        <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5269503c13388340cb92b7a66144b06d</sys_update_name>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-08-22 18:47:36</sys_updated_on>
+        <table>x_ahho_finance_accounts_receivable</table>
+        <ui_policy display_value="Display Miscellaneous fields">e44054ba13a84340d80074c66144b0ee</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -28,7 +28,7 @@
         <sys_class_name>sp_rectangle_menu_item</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-08-07 15:56:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>fa126af713188b00d80074c66144b09d</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>AR Requests</sys_name>
@@ -41,6 +41,7 @@
         <sys_updated_on>2017-08-07 16:00:22</sys_updated_on>
         <table>x_ahho_finance_accounts_receivable</table>
         <type>filtered</type>
+        <u_mega_menu_properties/>
         <url/>
         <url_target/>
     </sp_rectangle_menu_item>

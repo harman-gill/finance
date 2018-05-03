@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="ua_table_licensing_config">
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
-        <is_fulfillment>true</is_fulfillment>
+        <is_fulfillment>false</is_fulfillment>
         <license_condition/>
-        <license_model>none</license_model>
+        <license_model>fulfiller</license_model>
         <license_roles/>
         <name>x_ahho_finance_accounts_receivable</name>
         <op_delete>true</op_delete>

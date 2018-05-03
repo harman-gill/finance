@@ -4,107 +4,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sysrule_approvals" element="NULL" name="sysrule_approvals" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1d317e50a0006415d7085626df63601</list_id>
+            <list_id display_value="sysrule" element="NULL" name="sysrule" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4654f397958d910038844543c46300cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 15:14:16</sys_created_on>
-            <sys_id>a1d317e90a0006412da76128dcfb8a1d</sys_id>
+            <sys_created_by>nena.hunt@snc</sys_created_by>
+            <sys_created_on>2013-11-20 18:06:22</sys_created_on>
+            <sys_id>ce54f397958d910038844543c46300d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 15:14:16</sys_updated_on>
+            <sys_updated_by>nena.hunt@snc</sys_updated_by>
+            <sys_updated_on>2013-11-20 18:06:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>condition</element>
-            <list_id display_value="sysrule_approvals" element="NULL" name="sysrule_approvals" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1d317e50a0006415d7085626df63601</list_id>
+            <element>description</element>
+            <list_id display_value="sysrule" element="NULL" name="sysrule" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4654f397958d910038844543c46300cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 15:14:16</sys_created_on>
-            <sys_id>a1d317ea0a0006413e3f46b9901cacc3</sys_id>
+            <sys_created_by>nena.hunt@snc</sys_created_by>
+            <sys_created_on>2013-11-20 18:06:22</sys_created_on>
+            <sys_id>0a54f397958d910038844543c46300d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 15:14:16</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>group</element>
-            <list_id display_value="sysrule_approvals" element="NULL" name="sysrule_approvals" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1d317e50a0006415d7085626df63601</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 15:14:16</sys_created_on>
-            <sys_id>a1d317eb0a000641646f0661d6078d38</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 15:14:16</sys_updated_on>
+            <sys_updated_by>nena.hunt@snc</sys_updated_by>
+            <sys_updated_on>2013-11-20 18:06:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>order</element>
-            <list_id display_value="sysrule_approvals" element="NULL" name="sysrule_approvals" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1d317e50a0006415d7085626df63601</list_id>
+            <list_id display_value="sysrule" element="NULL" name="sysrule" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4654f397958d910038844543c46300cf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>nena.hunt@snc</sys_created_by>
+            <sys_created_on>2013-11-20 18:06:22</sys_created_on>
+            <sys_id>8a54f397958d910038844543c46300d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nena.hunt@snc</sys_updated_by>
+            <sys_updated_on>2013-11-20 18:06:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_domain</element>
+            <list_id display_value="sysrule" element="NULL" name="sysrule" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4654f397958d910038844543c46300cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 15:14:16</sys_created_on>
-            <sys_id>a1d317eb0a000641759ff75cad24d440</sys_id>
+            <sys_created_by>nena.hunt@snc</sys_created_by>
+            <sys_created_on>2013-11-20 18:06:22</sys_created_on>
+            <sys_id>0e54f397958d910038844543c46300d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 15:14:16</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>table</element>
-            <list_id display_value="sysrule_approvals" element="NULL" name="sysrule_approvals" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1d317e50a0006415d7085626df63601</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>4</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 15:14:16</sys_created_on>
-            <sys_id>a1d317ec0a0006415a6f400b7bb5e23c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 15:14:16</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>user</element>
-            <list_id display_value="sysrule_approvals" element="NULL" name="sysrule_approvals" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1d317e50a0006415d7085626df63601</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 15:14:16</sys_created_on>
-            <sys_id>a1d317ec0a0006411386e288bf39096b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 15:14:16</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_updated_on</element>
-            <list_id display_value="sysrule_approvals" element="NULL" name="sysrule_approvals" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a1d317e50a0006415d7085626df63601</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>6</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2011-04-29 15:14:16</sys_created_on>
-            <sys_id>a1d317ed0a0006412b829464037fb30d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2011-04-29 15:14:16</sys_updated_on>
+            <sys_updated_by>nena.hunt@snc</sys_updated_by>
+            <sys_updated_on>2013-11-20 18:06:22</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -119,7 +74,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>hsgill</sys_created_by>
             <sys_created_on>2017-07-07 14:29:42</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>8345aebd133bfa00d80074c66144b099</sys_id>
             <sys_mod_count>0</sys_mod_count>

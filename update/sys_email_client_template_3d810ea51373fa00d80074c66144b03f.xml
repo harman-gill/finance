@@ -14,7 +14,7 @@
         <sys_class_name>sys_email_client_template</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-07-06 17:18:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3d810ea51373fa00d80074c66144b03f</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>ar_template</sys_name>

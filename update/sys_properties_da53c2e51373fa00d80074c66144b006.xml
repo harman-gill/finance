@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-07-06 17:22:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>da53c2e51373fa00d80074c66144b006</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>glide.ui.x_ahho_finance_accounts_receivable_activity.fields</sys_name>

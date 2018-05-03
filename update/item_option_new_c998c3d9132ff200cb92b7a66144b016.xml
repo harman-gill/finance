@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-06-23 17:31:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c998c3d9132ff200cb92b7a66144b016</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Time Period</sys_name>

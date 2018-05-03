@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-06-26 19:01:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>daf9f6de1363b600d80074c66144b072</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Customer</sys_name>

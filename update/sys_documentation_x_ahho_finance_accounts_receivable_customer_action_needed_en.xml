@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>hsgill</sys_created_by>
             <sys_created_on>2017-08-08 13:12:42</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>87864f801364cb00d80074c66144b05b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Customer Action Needed</sys_name>

@@ -22,7 +22,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-07-06 20:05:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>797862a51377ba00cb92b7a66144b037</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>AR Task</sys_name>

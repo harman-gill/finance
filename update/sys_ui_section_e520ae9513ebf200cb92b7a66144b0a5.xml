@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>76ffc0ba13a84340d80074c66144b067</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>de1d943013788340cb92b7a66144b02f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>request_type</element>
             <position>1</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>faffc0ba13a84340d80074c66144b067</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>561d943013788340cb92b7a66144b030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_requested_for</element>
             <position>2</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7effc0ba13a84340d80074c66144b067</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d61d943013788340cb92b7a66144b030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,55 +47,55 @@
             <element>u_customer</element>
             <position>3</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>feffc0ba13a84340d80074c66144b067</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5a1d943013788340cb92b7a66144b030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_affiliation</element>
+            <position>4</position>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>da1d943013788340cb92b7a66144b030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_customer_number</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>72ffc0ba13a84340d80074c66144b068</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5e1d943013788340cb92b7a66144b030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cost_center</element>
-            <position>5</position>
-            <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f2ffc0ba13a84340d80074c66144b068</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
-            <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_company</element>
             <position>6</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>76ffc0ba13a84340d80074c66144b068</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>de1d943013788340cb92b7a66144b030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>u_amount</element>
             <position>7</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f6ffc0ba13a84340d80074c66144b068</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>521d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>u_time_period</element>
             <position>8</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7affc0ba13a84340d80074c66144b068</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d21d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>u_invoice_number</element>
             <position>9</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>faffc0ba13a84340d80074c66144b068</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>561d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>wo_number</element>
             <position>10</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7effc0ba13a84340d80074c66144b068</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d61d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>u_payment_type</element>
             <position>11</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>feffc0ba13a84340d80074c66144b068</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5a1d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>u_po_number</element>
             <position>12</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>72ffc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>da1d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>u_original_invoice_number</element>
             <position>13</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f2ffc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5e1d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>u_quantity</element>
             <position>14</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>76ffc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>de1d943013788340cb92b7a66144b031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -215,13 +215,13 @@
             <element>u_unit_price</element>
             <position>15</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f6ffc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>521d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -229,13 +229,13 @@
             <element>u_invoice_type</element>
             <position>16</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7affc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d21d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -243,13 +243,13 @@
             <element>u_document_type</element>
             <position>17</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>faffc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>561d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -257,13 +257,13 @@
             <element>u_justification</element>
             <position>18</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7effc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d61d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -271,13 +271,13 @@
             <element>u_reason</element>
             <position>19</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>feffc0ba13a84340d80074c66144b069</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5a1d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -285,13 +285,13 @@
             <element>u_variance</element>
             <position>20</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>72ffc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>da1d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -299,13 +299,13 @@
             <element>.split</element>
             <position>21</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f2ffc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5e1d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -313,13 +313,13 @@
             <element>approval</element>
             <position>22</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>76ffc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>de1d943013788340cb92b7a66144b032</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -327,13 +327,13 @@
             <element>state</element>
             <position>23</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f6ffc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>521d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -341,13 +341,13 @@
             <element>u_statement_month</element>
             <position>24</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7affc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d21d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -355,13 +355,13 @@
             <element>u_start_date</element>
             <position>25</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>faffc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>561d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -369,13 +369,13 @@
             <element>u_end_date</element>
             <position>26</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7effc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d61d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -383,13 +383,13 @@
             <element>work_start</element>
             <position>27</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>feffc0ba13a84340d80074c66144b06a</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5a1d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -397,13 +397,13 @@
             <element>opened_at</element>
             <position>28</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>72ffc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>da1d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -411,13 +411,13 @@
             <element>work_end</element>
             <position>29</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f2ffc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5e1d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -425,13 +425,13 @@
             <element>u_golive_date</element>
             <position>30</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>76ffc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>de1d943013788340cb92b7a66144b033</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -439,13 +439,13 @@
             <element>u_total_recon</element>
             <position>31</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f6ffc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>521d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -453,13 +453,13 @@
             <element>assignment_group</element>
             <position>32</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7affc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d21d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -467,13 +467,13 @@
             <element>assigned_to</element>
             <position>33</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>faffc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>561d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -481,13 +481,13 @@
             <element>opened_by</element>
             <position>34</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>7effc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>d61d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -495,13 +495,13 @@
             <element>send_to_customer</element>
             <position>35</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>feffc0ba13a84340d80074c66144b06b</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5a1d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -509,13 +509,13 @@
             <element>customer_action_needed</element>
             <position>36</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>72ffc0ba13a84340d80074c66144b06c</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>da1d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -523,13 +523,13 @@
             <element>.end_split</element>
             <position>37</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>f2ffc0ba13a84340d80074c66144b06c</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>5e1d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -537,13 +537,13 @@
             <element>description</element>
             <position>38</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-08-16 12:58:20</sys_created_on>
-            <sys_id>76ffc0ba13a84340d80074c66144b06c</sys_id>
+            <sys_created_on>2017-08-22 19:03:30</sys_created_on>
+            <sys_id>de1d943013788340cb92b7a66144b034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ahho_finance_accounts_receivable" sys_domain="global" view="Default view">e520ae9513ebf200cb92b7a66144b0a5</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -558,7 +558,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>e520ae9513ebf200cb92b7a66144b0a5</sys_id>
-            <sys_mod_count>24</sys_mod_count>
+            <sys_mod_count>26</sys_mod_count>
             <sys_name>x_ahho_finance_accounts_receivable</sys_name>
             <sys_overrides/>
             <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
@@ -567,7 +567,7 @@
             <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
             <sys_update_name>sys_ui_section_e520ae9513ebf200cb92b7a66144b0a5</sys_update_name>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-08-16 12:58:20</sys_updated_on>
+            <sys_updated_on>2017-08-22 19:03:30</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

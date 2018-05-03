@@ -53,7 +53,7 @@
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-06-23 13:56:48</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>ae45121113ebf200cb92b7a66144b0a3</sys_id>
+        <sys_id>4312a2abdbb88f40c54cf5361d9619e9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Justification</sys_name>
         <sys_package display_value="Finance" source="x_ahho_finance">b0f9347c132bf200d80074c66144b0bf</sys_package>
@@ -61,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Finance">b0f9347c132bf200d80074c66144b0bf</sys_scope>
         <sys_update_name>sys_dictionary_x_ahho_finance_accounts_receivable_u_justification</sys_update_name>
-        <sys_updated_by>hsgill</sys_updated_by>
-        <sys_updated_on>2017-06-23 13:56:48</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-31 17:49:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true" audit="true" extends="task" label="Accounts Receivable" max_length="40" name="x_ahho_finance_accounts_receivable" sizeclass="56" type="collection">
+    <element attributes="email_client=true" audit="true" extends="task" label="Accounts Receivable" max_length="40" name="x_ahho_finance_accounts_receivable" sizeclass="266" type="collection">
         <element label="Customer Action Needed" max_length="40" name="customer_action_needed" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Request Type" max_length="40" name="request_type" type="string">
             <choice>
@@ -19,9 +19,15 @@
             </choice>
         </element>
         <element label="Send to Customer" max_length="40" name="send_to_customer" type="boolean"/>
+        <element choice="1" label="Affiliation" max_length="40" name="u_affiliation" type="choice">
+            <choice>
+                <element label="Ascension" sequence="100" value="ascension"/>
+                <element label="Non Ascension" sequence="200" value="non_ascension"/>
+                <element label="Dignity" sequence="300" value="dignity"/>
+            </choice>
+        </element>
         <element label="Amount" max_length="15" name="u_amount" type="currency"/>
         <element label="Amount Total" max_length="40" name="u_amount_total" type="currency"/>
-        <element label="Company" max_length="40" name="u_company" reference="core_company" type="reference"/>
         <element label="Cost Center" max_length="40" name="u_cost_center" type="string"/>
         <element label="Customer" max_length="32" name="u_customer" reference="u_prod_gp_customer" type="reference"/>
         <element label="Customer Number" max_length="40" name="u_customer_number" read_only="true" type="string"/>
@@ -33,7 +39,7 @@
         </element>
         <element label="End Date" max_length="40" name="u_end_date" type="glide_date"/>
         <element label="Go-Live Date" max_length="40" name="u_golive_date" type="glide_date"/>
-        <element label="Invoice #/WO #" max_length="40" name="u_invoice_number" type="string"/>
+        <element label="Invoice #" max_length="40" name="u_invoice_number" type="string"/>
         <element choice="1" label="Invoice Type" max_length="40" name="u_invoice_type" type="choice">
             <choice>
                 <element label="T&amp;M (Time and Material)" sequence="100" value="time_and_material"/>

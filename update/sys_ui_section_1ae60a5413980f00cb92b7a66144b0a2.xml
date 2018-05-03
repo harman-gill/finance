@@ -2,18 +2,32 @@
 <record_update>
     <sys_ui_section caption="Activity" section_id="1ae60a5413980f00cb92b7a66144b0a2" sys_domain="global" table="x_ahho_finance_ar_task" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>comments_and_work_notes</element>
+            <element>work_notes</element>
             <position>0</position>
             <sys_created_by>hsgill</sys_created_by>
-            <sys_created_on>2017-07-27 17:40:39</sys_created_on>
-            <sys_id>4fc0d21413d04300d80074c66144b075</sys_id>
+            <sys_created_on>2017-08-29 18:24:56</sys_created_on>
+            <sys_id>ad67180313384300d80074c66144b0c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Activity" display_value="Activity" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">1ae60a5413980f00cb92b7a66144b0a2</sys_ui_section>
             <sys_updated_by>hsgill</sys_updated_by>
-            <sys_updated_on>2017-07-27 17:40:39</sys_updated_on>
+            <sys_updated_on>2017-08-29 18:24:56</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>hsgill</sys_created_by>
+            <sys_created_on>2017-08-29 18:24:56</sys_created_on>
+            <sys_id>2167180313384300d80074c66144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">b832d3560a0001c700d781efe21e22f5</sys_ui_formatter>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_ahho_finance_ar_task" sys_domain="global" view="Default view">1ae60a5413980f00cb92b7a66144b0a2</sys_ui_section>
+            <sys_updated_by>hsgill</sys_updated_by>
+            <sys_updated_on>2017-08-29 18:24:56</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Activity</caption>
@@ -23,7 +37,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>hsgill</sys_created_by>
             <sys_created_on>2017-07-27 16:57:28</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>1ae60a5413980f00cb92b7a66144b0a2</sys_id>
             <sys_mod_count>0</sys_mod_count>

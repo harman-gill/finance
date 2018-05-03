@@ -21,7 +21,7 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>hsgill</sys_created_by>
         <sys_created_on>2017-07-26 15:31:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>d069ec44131ccb00cb92b7a66144b023</sys_id>
         <sys_mod_count>2</sys_mod_count>
